@@ -1,4 +1,4 @@
-Trabajo Práctico 0 - "Hello World" en C
+## Trabajo Práctico 0 - "Hello World" en C
 
-Compilador:
-Versión C: 
+* Compilador:
+* Versión C: 
