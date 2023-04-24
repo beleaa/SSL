@@ -1,4 +1,8 @@
-Repositorio público personal para la materia de Sintaxis y Semántica de los Lenguajes - K2051.
+Repositorio público personal para la materia.
 
-Alumno: Acosta, Belén Agustina
-Legajo: 1681813
+* Sintaxis y Semántica de los Lenguajes
+* Curso: K2051
+* Año de cursada, y cuatrimestre si corresponde: 2023
+* Legajo: 168181-3
+* Apellido: Acosta
+* Nombre: Belén Agustina
