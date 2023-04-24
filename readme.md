@@ -1,4 +1,4 @@
-#Repositorio público personal para la materia
+# Repositorio público personal para la materia
 
 * **Sintaxis y Semántica de los Lenguajes**
 * **Curso:** K2051
